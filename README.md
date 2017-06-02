@@ -2,5 +2,5 @@
 -----
 ## studying
 
- - [x]  To create an HTML file
- - [x]  Markdown
+- [x] To create an HTML file
+- [x] Markdown
