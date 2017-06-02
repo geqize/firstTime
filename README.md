@@ -1,2 +1,6 @@
 # firstTime
-test
+-----
+## studying
+
+ - [x]  To create an HTML file
+ - [x]  Markdown
